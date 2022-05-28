@@ -1,11 +1,11 @@
 export const projects = [
   {
     title: 'AF Dream Cars',
-    description: "A nice online store built for a vehicle parts business in Belgium.",
+    description: "A nice modern admin dashboard with many options.",
     image: '/images/1.jpg',
-    tags: ['WordPress', 'JQuery'],
-    source: 'https://www.af-dreamcars.be/',
-    visit: 'https://www.af-dreamcars.be/',
+    tags: ['React', 'Material UI'],
+    source: 'https://github.com/Saad1379/react-admin',
+    visit: 'https://react-admin-plum.vercel.app/',
     id: 0,
   },
   {
